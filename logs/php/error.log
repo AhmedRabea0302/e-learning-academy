@@ -5,3 +5,18 @@ Stack trace:
 #2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
 #3 {main}
   thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/index.php on line 75
+[29-Jul-2023 20:22:45 UTC] PHP Warning:  Undefined variable $theParentId in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page.php on line 19
+[29-Jul-2023 20:47:56 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int | array in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page.php:36
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#3 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page.php on line 36
+[29-Jul-2023 20:48:15 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int | array in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page.php:36
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#3 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page.php on line 36

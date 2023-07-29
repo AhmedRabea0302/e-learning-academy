@@ -1,6 +1,6 @@
 <?php
 
-    // Load your css files
+    // Load your css files, fonts and scripts
     add_action('wp_enqueue_scripts', 'academy_files');
     function academy_files() {
         wp_enqueue_script('main_academy_javascript', get_theme_file_uri('/build/index.js'), array('jquery'), 1.0, true);
@@ -10,6 +10,14 @@
         wp_enqueue_style('academy_extra_styles', get_theme_file_uri('/build/index.css'));
     }
 
+
+    add_action('after_setup_theme', 'academy_features');
+    function academy_features() {
+        add_theme_support('title-tag');
+        register_nav_menu('header_menu_location', 'Header Menu Location');
+        register_nav_menu('footer_location_one', 'Footer Location One');
+        register_nav_menu('footer_location_two', 'Footer Location Two');
+    }
 
 
     
