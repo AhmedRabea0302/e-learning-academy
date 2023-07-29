@@ -1,0 +1,7 @@
+[29-Jul-2023 19:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_ur() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/index.php:75
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#3 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/index.php on line 75
