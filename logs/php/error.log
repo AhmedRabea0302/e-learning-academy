@@ -25,3 +25,141 @@ Stack trace:
 [31-Jul-2023 14:27:04 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/update.php on line 728
 [01-Aug-2023 18:34:08 UTC] PHP Warning:  Undefined variable $theParentId in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single.php on line 17
 [01-Aug-2023 18:34:08 UTC] PHP Warning:  Undefined variable $theParentId in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single.php on line 17
+[01-Aug-2023 19:45:31 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "academy_post_tyypes" not found or invalid function name in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin-ajax.php(22): require_once('/home/fadloovic...')
+#6 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php on line 308
+[01-Aug-2023 19:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin-ajax.php(22): require_once('/home/fadloovic...')
+#7 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin-ajax.php(22): require_once('/home/fadloovic...')
+#7 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[01-Aug-2023 19:46:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[01-Aug-2023 19:46:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin.php(34): require_once('/home/fadloovic...')
+#7 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/edit.php(10): require_once('/home/fadloovic...')
+#8 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(13): require_once('/home/fadloovic...')
+#7 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#8 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(13): require_once('/home/fadloovic...')
+#7 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#8 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin.php(34): require_once('/home/fadloovic...')
+#7 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/edit.php(10): require_once('/home/fadloovic...')
+#8 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_post_types() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(308): academy_post_types('')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(13): require_once('/home/fadloovic...')
+#7 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#8 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 22
+[01-Aug-2023 19:46:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "academy_post_types" not found or invalid function name in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin.php(34): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/edit.php(10): require_once('/home/fadloovic...')
+#7 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php on line 308
+[01-Aug-2023 19:46:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "academy_post_types" not found or invalid function name in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(13): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#7 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php on line 308
+[01-Aug-2023 19:46:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "academy_post_types" not found or invalid function name in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/admin.php(34): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/wp-admin/edit.php(10): require_once('/home/fadloovic...')
+#7 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php on line 308
+[01-Aug-2023 19:46:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "academy_post_types" not found or invalid function name in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php:308
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-settings.php(623): do_action('init')
+#3 /home/fadloovich/Local Sites/e-learning/app/public/wp-config.php(103): require_once('/home/fadloovic...')
+#4 /home/fadloovich/Local Sites/e-learning/app/public/wp-load.php(50): require_once('/home/fadloovic...')
+#5 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(13): require_once('/home/fadloovic...')
+#6 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#7 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php on line 308
