@@ -15,8 +15,6 @@
     function academy_features() {
         add_theme_support('title-tag');
         register_nav_menu('header_menu_location', 'Header Menu Location');
-        register_nav_menu('footer_location_one', 'Footer Location One');
-        register_nav_menu('footer_location_two', 'Footer Location Two');
     }
 
 
