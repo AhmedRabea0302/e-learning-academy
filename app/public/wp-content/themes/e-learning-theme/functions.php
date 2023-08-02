@@ -17,5 +17,21 @@
         register_nav_menu('header_menu_location', 'Header Menu Location');
     }
 
+    add_action('pre_get_posts', 'academy_adjust_query');
+    function academy_adjust_query($query) {
+        if(!is_admin() AND is_post_type_archive('event') AND $query->is_main_query()) {
+            $today = date('Y-m-d');
+            $query->set('meta_key', 'event_date');
+            $query->set('orderby', 'meta_value_num');
+            $query->set('order', 'ASC');
+            $query->set('meta_query',  array(
+                array(
+                  'key' => 'event_date',
+                  'compare' => '>=',
+                  'value' => $today,
+                ))
+            );
+        }
+    }
 
     

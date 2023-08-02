@@ -163,3 +163,24 @@ Stack trace:
 #6 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
 #7 {main}
   thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/class-wp-hook.php on line 308
+[02-Aug-2023 12:21:59 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 30
+[02-Aug-2023 12:38:16 UTC] PHP Fatal error:  Uncaught Exception: Failed to parse time string (23/08/2023 12:00 am) at position 0 (2): Unexpected character in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/archive-event.php:22
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/archive-event.php(22): DateTime->__construct('23/08/2023 12:0...')
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#3 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#4 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/archive-event.php on line 22
+[02-Aug-2023 12:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Date" not found in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/front-page.php:18
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#3 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/front-page.php on line 18
+[02-Aug-2023 14:12:36 UTC] PHP Parse error:  syntax error, unexpected token ">=" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/front-page.php on line 28
+[02-Aug-2023 14:24:42 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 19
+[02-Aug-2023 14:24:42 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 29
+[02-Aug-2023 14:24:56 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 19
+[02-Aug-2023 14:24:56 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 29
