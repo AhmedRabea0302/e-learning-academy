@@ -275,3 +275,7 @@ Stack trace:
 #2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
 #3 {main}
   thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 17:20:49 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-program.php on line 66
+[02-Aug-2023 17:21:14 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-program.php on line 66
+[02-Aug-2023 17:54:10 UTC] PHP Warning:  Undefined array key "size" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/plugins/manual-image-crop/lib/ManualImageCropEditorWindow.php on line 39
+[02-Aug-2023 18:08:14 UTC] PHP Warning:  Undefined array key "size" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/plugins/manual-image-crop/lib/ManualImageCropEditorWindow.php on line 39
