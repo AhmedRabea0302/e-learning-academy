@@ -279,3 +279,17 @@ Stack trace:
 [02-Aug-2023 17:21:14 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-program.php on line 66
 [02-Aug-2023 17:54:10 UTC] PHP Warning:  Undefined array key "size" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/plugins/manual-image-crop/lib/ManualImageCropEditorWindow.php on line 39
 [02-Aug-2023 18:08:14 UTC] PHP Warning:  Undefined array key "size" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/plugins/manual-image-crop/lib/ManualImageCropEditorWindow.php on line 39
+[02-Aug-2023 18:15:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 8
+[02-Aug-2023 18:15:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 8
+[02-Aug-2023 18:26:08 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:26:41 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:26:41 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:26:42 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:26:42 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:27:17 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:27:18 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:28:26 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:28:26 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 19
+[02-Aug-2023 18:28:27 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 7
+[02-Aug-2023 18:28:27 UTC] PHP Warning:  Undefined array key "subtitle" in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 19
+[02-Aug-2023 18:36:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/functions.php on line 4
