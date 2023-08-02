@@ -184,3 +184,94 @@ Stack trace:
 [02-Aug-2023 14:24:42 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 29
 [02-Aug-2023 14:24:56 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 19
 [02-Aug-2023 14:24:56 UTC] PHP Warning:  Undefined variable $today in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/page-past-events.php on line 29
+[02-Aug-2023 15:06:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:07:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:08:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:09:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:09:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:09:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:09:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:09:33 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:09:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:09:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:09:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:09:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:09:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:10:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:10:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:10:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:10:02 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 34
+[02-Aug-2023 15:11:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:11:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:12:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:13:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:13:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:13:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:13:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:13:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 15:13:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:32:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:33:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php:32
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#3 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 32
+[02-Aug-2023 16:33:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:34:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:34:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:34:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:34:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:34:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:34:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:35:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:35:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:35:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:35:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:35:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:32 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:33 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:34 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:37:34 UTC] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
+[02-Aug-2023 16:43:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 36
+[02-Aug-2023 16:44:00 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php:33
+Stack trace:
+#0 /home/fadloovich/Local Sites/e-learning/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/fadloovich/Local Sites/e-learning/app/public/wp-blog-header.php(19): require_once('/home/fadloovic...')
+#2 /home/fadloovich/Local Sites/e-learning/app/public/index.php(17): require('/home/fadloovic...')
+#3 {main}
+  thrown in /home/fadloovich/Local Sites/e-learning/app/public/wp-content/themes/e-learning-theme/single-event.php on line 33
